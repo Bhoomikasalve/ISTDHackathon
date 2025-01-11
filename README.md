@@ -7,7 +7,7 @@ Welcome to EcoMove! This project tackles the critical challenge of increasing aw
 Experience the live version of EcoMove here: [EcoMove App](https://ecoomoveapp.netlify.app/)
 
 ## YouTube Video Presentation
-Discover EcoMove in action! Watch our presentation: [EcoMove Presentation](https://youtu.be/34_ilc1CqSQ?feature=shared)
+Discover EcoMove in action! Watch our presentation: [EcoMove Presentation](https://youtu.be/4ri8ElCwR3c)
 
 ---
 
